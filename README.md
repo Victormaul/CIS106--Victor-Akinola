@@ -1,1 +1,2 @@
 # CIS106--Victor-Akinola
+Hello Professor Alvino, My name is Victorand this is my second semester at harper college. I decided to take this course because I am going into computer science, so it is a prerequisite to get into the course. I am going into Computer Science to work in cyber security and threat analysis. I hope in taking this class I will learn the skills I need to progress in the field of computers, and to learn my strengths and weaknesses when it comes to coding.
